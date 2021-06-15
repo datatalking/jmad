@@ -16,4 +16,4 @@ if __name__ == '__main__':
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
-    print("Hello Mr. Schell, my Django program took", time.time() - start_time, "to run")
+    print("Hello Sir, my Django program took", time.time() - start_time, "to run")
